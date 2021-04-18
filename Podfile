@@ -9,6 +9,7 @@ pod 'Firebase/Auth'
 pod 'Firebase/Core'
 pod 'Firebase/Firestore'
 pod 'Firebase/Storage'
+pod 'SDWebImage'
 
   # Pods for InstaCloneProject_
 
